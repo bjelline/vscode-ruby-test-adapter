@@ -1,19 +1,19 @@
 {
   "name": "vscode-ruby-test-adapter",
-  "displayName": "Ruby Test Explorer",
+  "displayName": "Ruby Test Explorer - fork, beta",
   "description": "Run your Ruby tests in the Sidebar of Visual Studio Code",
   "icon": "img/ruby-test-explorer.png",
-  "author": "Connor Shea <connor.james.shea@gmail.com>",
-  "publisher": "connorshea",
-  "version": "0.8.0",
+  "author": "Connor Shea <connor.james.shea@gmail.com>, Brigitte Jellinek <brigitte.jellinek@fh-salzburg.ac.at>",
+  "publisher": "bjelline",
+  "version": "0.8.1",
   "license": "MIT",
-  "homepage": "https://github.com/connorshea/vscode-ruby-test-adapter",
+  "homepage": "https://github.com/bjelline/vscode-ruby-test-adapter",
   "repository": {
     "type": "git",
-    "url": "https://github.com/connorshea/vscode-ruby-test-adapter.git"
+    "url": "https://github.com/bjelline/vscode-ruby-test-adapter.git"
   },
   "bugs": {
-    "url": "https://github.com/connorshea/vscode-ruby-test-adapter/issues"
+    "url": "https://github.com/bjelline/vscode-ruby-test-adapter/issues"
   },
   "categories": [
     "Other"
